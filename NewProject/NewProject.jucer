@@ -8,6 +8,10 @@
       <FILE id="kvEEGw" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
       <FILE id="gD5TGa" name="MainComponent.cpp" compile="1" resource="0"
             file="Source/MainComponent.cpp"/>
+      <FILE id="aS7Rdx" name="AudioServer.h" compile="0" resource="0" file="Source/AudioServer.h"/>
+      <FILE id="bT8Sey" name="AudioServer.cpp" compile="1" resource="0" file="Source/AudioServer.cpp"/>
+      <FILE id="cU9Tfz" name="VirtualAudioDevice.h" compile="0" resource="0" file="Source/VirtualAudioDevice.h"/>
+      <FILE id="dV0Uga" name="VirtualAudioDevice.cpp" compile="1" resource="0" file="Source/VirtualAudioDevice.cpp"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
